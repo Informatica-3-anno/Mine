@@ -1,4 +1,4 @@
-Realizzazione  del gioco del Campo Minato semplificato
+# Realizzazione  del gioco del Campo Minato semplificato
 
 Obiettivo:
 Implementare un programma in Java che simuli una versione semplificata del gioco "Campo Minato" su una griglia NxN,
